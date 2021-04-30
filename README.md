@@ -1,13 +1,17 @@
-# DATA3406 ASSIGNMENT 2
-Topic Two: PeerWise Groups :family:
+
+<p align="center">  
+   <h1 align="center">PeerWise Groups :family:</h1>
+   <h5 align="center">DATA3406 ASSIGNMENT 2</h5>
+</p>
+
+[**What is PeerWise?**](https://peerwise.cs.auckland.ac.nz) 
+
+PeerWise is an online repository of multiple-choice questions that are created, answered, rated and discussed by students.
+
 
 Driving question :mag_right:
 ----------------
 What are the impacts of the group membership for performance using PeerWise?
-
-**What is PeerWise?**
-
-[PeerWise is an online repository of multiple-choice questions that are created, answered, rated and discussed by students.](https://peerwise.cs.auckland.ac.nz) 
 
 Table of contents :clipboard:
 ------------------
