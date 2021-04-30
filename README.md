@@ -1,4 +1,4 @@
-# Assignment Two
+# DATA3406 ASSIGNMENT 2
 Topic Two: PeerWise Groups :family:
 
 Driving question :mag_right:
@@ -10,19 +10,19 @@ Table of contents :clipboard:
 1. [Introduction](#introduction)
 2. [The Team](#the-team)
 3. [Getting Started](#getting-started-file_folder)
-4. [Project Description](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/blob/master/project-description.md)
-5. [Raw Data](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/data)
+4. [Project Description](project-description.md)
+5. [Raw Data](/data)
 6. [Data Origin and Summary](#data-origin-and-summary-floppy_disk)
 7. [Important Variables](#key-variables)
-8. [Product Notebook](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/blob/master/Product_Notebook.ipynb)
-9. [Process Notebooks](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/process-notebooks)
-   1. [Week 8 Process Notebooks](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/process-notebooks/Week%208%20Mini%20Assignments)
-   2. [Week 9 Process Notebooks](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/process-notebooks/Week%209%20Mini%20Assignments%20Assignments)
-   3. [Week 10 Process Notebooks](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/process-notebooks/Week%2010%20Mini%20Assignments)
-   4. [Week 11 Process Notebooks](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/process-notebooks/Week%2011%20Mini%20Assignements)
-   5. [Further Exploration Process Notebooks](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/process-notebooks/Further%20Exploration)
-10. [Group Processes](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/tree/master/Group_processes)
-11. [Group Process Report](https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2/blob/master/Group%20Processes%20Report.pdf)
+8. [Product Notebook](/Product_Notebook.ipynb)
+9. [Process Notebooks](/process-notebooks)
+   1. [Week 8 Process Notebooks](process-notebooks/Week%208%20Mini%20Assignments)
+   2. [Week 9 Process Notebooks](process-notebooks/Week%209%20Mini%20Assignments%20Assignments)
+   3. [Week 10 Process Notebooks](process-notebooks/Week%2010%20Mini%20Assignments)
+   4. [Week 11 Process Notebooks](process-notebooks/Week%2011%20Mini%20Assignements)
+   5. [Further Exploration Process Notebooks](process-notebooks/Further%20Exploration)
+10. [Group Processes](Group_processes)
+11. [Group Process Report](Group%20Processes%20Report.pdf)
 
 Introduction
 -------------
@@ -30,14 +30,14 @@ Establishing if working in organised teams can significantly influence performan
 
 The Team:
 ---------
-| Names   | Unikey   | Role    |
-|---------|----------|---------|
-| Charlie | clor4726 | Manager |
-| Tash    | ntan7875 | Tracker |
-| Yan     | yayu8271 | Member  |
-| Johanna | jjon2520 | Member  |
-| Taron   | tlin6895 | Member  |
-| Abdullah| asaf8323 | Member  |
+| Names   | Role    |
+|---------|---------|
+| Abdullah| Manager |
+| Charlie | Tracker |
+| Tash    | Member  |
+| Yan     | Member  |
+| Johanna | Member  |
+| Taron   | Member  |
 
 
 Getting Started :file_folder:
@@ -46,8 +46,8 @@ Getting Started :file_folder:
 
 List of commands:
 
-- `$ git clone https://github.sydney.edu.au/tlin6895/DATA3406-Assignment-2.git`
-- `$ cd DATA3406-Assignment-2`
+- `$ git clone https://github.com/abdullahsafi/PeerWise_Group_Performance.git`
+- `$ cd PeerWise_Group_Performance`
 - Here you can access the Product Notebook and other folders.
 - The Product Notebook can be opened through Google Colab (recommened):
    - Ensure you upload your copy of the repo onto your google drive
@@ -91,15 +91,3 @@ Key Variables
 | avg_rating     | The average student-given rating of a student-published question          |
 | AcademicMark   | A mark assigned by academic staff to a student's question based on its quality |
 | Answer         | The correct answer of a question    |
-
-
-**Meeting times:**
-
-- Sunday nights where possible
-- When the team can't do Sunday nights, we meet Monday nights
-
-**Tasks:**
-
-- Tasks defined and assigned in Issues board
-- All group members should complete the tasks in mini assignments
-
