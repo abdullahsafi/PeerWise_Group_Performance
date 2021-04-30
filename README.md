@@ -5,6 +5,10 @@ Driving question :mag_right:
 ----------------
 What are the impacts of the group membership for performance using PeerWise?
 
+**What is PeerWise?**
+
+[PeerWise is an online repository of multiple-choice questions that are created, answered, rated and discussed by students.](https://peerwise.cs.auckland.ac.nz) 
+
 Table of contents :clipboard:
 ------------------
 1. [Introduction](#introduction)
