@@ -1,0 +1,52 @@
+﻿Johanna
+
+
+* Code is easy to read and understand
+* Code outputs are well-explained
+* Good use of commenting 
+* Good use of text sizing/subheading
+* Good overall structuring of text and code
+* Good variable naming
+* Good use of graphs and visual aids
+* Need more meaningful conclusions 
+* Good layout
+
+
+YAN
+* Could implement more text cells for explanation
+* Good use of python functioning 
+* Performed a nice ‘inner’ merge on the datasets
+* Don't need to convert to csv
+* Need more meaningful conclusions
+* Could have investigated into the number of group members in each group
+* Could use more commenting in lines to help readers understand
+
+
+Tash
+* Nice use of commenting in code cells
+* Good use of visual aids
+* Good use of in code printing- variables and output would update as results update, maintaining consistency
+* Good investigation into specific areas
+
+
+Abdullah
+* Nice breakdown of comments into words
+* Good use of visual aids to represent data, especially use of scatter plot to check for outliers
+   * Different visualisations give different views of the data
+* Good use of python code to count number of words in each comment
+* Needs more commenting in code cells
+* Variable names such as “word” could be changed to “words_in_comments”
+
+
+Taron
+* Excellent and Good use of visual aids
+* I like the code
+* Good food
+* Strong use of multiple visualisations
+* Good commenting to explain the thought process prior to each code block
+
+
+Charlie
+* Good use of variable naming
+* Needs more comments/ explanatory text because of memory recall
+* Needs more meaningful conclusions to understand the purpose of the code.

@@ -1,0 +1,15 @@
+﻿Feed back:
+* Legend labelling incorrect→ dont represent each group
+* Labels confusing
+* Graph hard to understand because doesn’t have understanding of data
+* Confusing y-axis scale because its sum of academicmark
+   * Wrong labelling → 'Academic mark’ but is actually counting the occurrence of each word within a group
+* Team colours don’t match the actual colours
+* Use interactivity to make the higher levels less confusing
+* Too many words on graph
+* Didn’t know she could hover over a boxplot to see the word
+* Label boxplots with team or colour code them
+* No titles
+* Clustering graph is not effective→ uninformative and does indicate whether comments were of good quality or not
+* Simpler graphs (Charlie’s) were easier to comprehend and understand
+   * Useful for to place error bars
