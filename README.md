@@ -1,7 +1,6 @@
 
 <p align="center">  
    <h1 align="center">PeerWise Groups :family:</h1>
-   <h5 align="center">DATA3406 ASSIGNMENT 2</h5>
 </p>
 
 [**What is PeerWise?**](https://peerwise.cs.auckland.ac.nz) 
